@@ -1,5 +1,4 @@
 
-
 EN
  ================================================================
  gpt-tools is a set of tools for getting full access to ChatGPT by parsing a variety of free mirrors. The main module responsible for parsing is built on the selenium library, which in turn uses the Edge browser. If you will use the parser on an operating system other than Windows, make sure that the module is compatible with the browsers of your operating system.
